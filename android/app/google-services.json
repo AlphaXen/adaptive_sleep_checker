@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "950597605784",
+    "project_id": "adaptive-sleep-checker",
+    "storage_bucket": "adaptive-sleep-checker.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950597605784:android:f3d66cc90ec4b5bd96f3ed",
+        "android_client_info": {
+          "package_name": "com.example.adaptive_sleep_checker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950597605784-ar6dbuu4csgq29cn4vhpmra2u016sqch.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.adaptive_sleep_checker",
+            "certificate_hash": "21d00024ad5662e824a86bbad8239897ce8e4bb5"
+          }
+        },
+        {
+          "client_id": "950597605784-v12eg6gipcv9e31cb63468lrodq9n0ce.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZiwaDDR7X_2B_wXBqvwvyRyhh2HBpS4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "950597605784-v12eg6gipcv9e31cb63468lrodq9n0ce.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "950597605784-8hpq29qg9fr8ufk25ltr3n8pk0igq3oi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.adaptiveSleepChecker"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
